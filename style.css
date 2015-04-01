@@ -1,0 +1,135 @@
+
+.background {
+    margin-top: 15px;
+    background-color:#eef1f4; 
+    min-height: 100vh;
+    box-shadow: 0 0 15px #888888;
+    border-radius: 10px;
+}
+
+.inner-background {
+    border: 1px solid black;
+    
+    
+}
+.div{
+    border: 1px solid black;
+}
+
+.title {
+    font-size: 50px;
+    font-family: fantasy;
+    font-family: #5b15ba;
+    
+}
+
+.searchbar {
+    display: inline-block;
+    width: 200px;
+}
+
+.detailbox {
+    
+    background-color: white;
+    position: relative;
+    width: 90%;
+    height: 20%;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.imagebox {
+    border: 1px solid #888888;
+    display: inline-block;
+    
+}
+
+.textdetails {
+    display: inline-block;
+    position: relative;
+    width: 50%;
+}
+
+.categorypart {
+    position: relative;
+    width: 35%;
+    background-color:#bbcaeb ;
+    min-height: 80vh;
+    border-radius: 5px;
+   
+}
+
+.goods {
+    position: relative;
+    width: 60%;
+}
+
+.price {
+    display: inline-block;
+    position: relative;
+    width: 10%;
+}
+
+.search {    
+    display: inline-block;
+    position: relative;
+    width: 25%;
+    margin-top: 10px;
+    
+}
+}
+
+.Categorybar {
+    display: inline-block;
+    position: relative;
+    width: auto;
+}
+}
+}
+}
+
+.Districsbar {
+    display: inline-block;
+    position: relative;
+    width: 25%;
+}
+
+.searchbutton {
+    display: inline-block;
+    position: relative;
+    width: 15%;
+}
+
+.formset {
+    position: relative;
+}
+
+.setwidth {
+    width: 100px;
+}
+
+.Upperdown {
+    
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.selectbox {
+    background-color: rgba(58, 234, 105, 0.79);
+    margin-top: 15px;
+    vertical-align: middle;
+}
+
+.categoryfont {
+    font-family:monospace;
+    font-size: 25px;
+}
+
+.insideboxes {
+    padding-left:50px;
+    background-color: rgba(136, 136, 136, 0.67);
+    min-height: 80vh;
+    border-radius: 5px;
+    
+}
